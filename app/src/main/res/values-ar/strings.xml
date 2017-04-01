@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DentalExpress</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">مرحبا يا عالم</string>
+
+    <string name="nav_str_home">الرئيسية</string>
+    <string name="nav_str_products">المنتجات</string>
+    <string name="nav_str_offers">نشرة العروض</string>
+
+</resources>
